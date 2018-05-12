@@ -1,0 +1,31 @@
+_repo: Pero-da-Covilhan--Episodio-Romantico-do-Seculo-XV_32296
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brandão, Zephyrino
+    aliases:
+    - Brandão, Zeferino Norberto Gonçalves
+    - Brandão, Zephyrino Norberto Goncalves
+    - Brandao, Zeferino Norberto Goncalves
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '35780'
+    url: http://www.gutenberg.org/2009/agents/35780
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32296'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Covilhã, Pêro da -- Fiction'
+- !lcc 'PQ'
+title: 'Pero da Covilhan: Episodio Romantico do Seculo XV'
+url: http://www.gutenberg.org/ebooks/32296
